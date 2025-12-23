@@ -1,0 +1,9 @@
+{
+  "name": "VisionGuide AI Pro",
+  "description": "A high-precision spatial assistant for visually impaired users. Features real-time pathfinding, bilingual female voice (Hindi/English), universal translation, GPS location tracking, and an integrated memory database.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
